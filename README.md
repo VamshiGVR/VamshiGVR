@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VamshiGVR
 - 👀 I’m interested in Java Full Stack Development/DevOps Engineer
-- 🌱 I’m currently learning DevOps/Python/Java
+- 🌱 I’m currently learning DevOps/Python/Java/Azure
 - 💞️ I’m looking to collaborate on @anyone
 - 📫 How to reach me - www.linkedin.com/in/vamshidhar-reddy-g-387068290
 - 😄 Pronouns: He/Him
