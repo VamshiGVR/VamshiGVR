@@ -7,8 +7,13 @@
 - ⚡ Fun fact: Not Today
 
   # CERTIFICATIONS
-
+- AZ 900: 
 <!---
+
+# REPOSITORIES
+- Docker
+- Infra-as-code
+- Policy-as-code
 VamshiGVR/VamshiGVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
