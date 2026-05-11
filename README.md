@@ -1,16 +1,22 @@
-## Hi there 👋
+- 👋 Hi, I’m @VamshiGVR
+- 👀 I’m interested in Java Full Stack Development/DevOps Engineer/ DevSecOPs Engineer/ cloud Engineer
+- 🌱 I’m currently learning DevSecOps/Azure
+- 💞️ I’m looking to collaborate on @anyone
+- 📫 How to reach me? - www.linkedin.com/in/vamshidhar-reddy-g-387068290
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Not Today
+- ✨ PORTFOLIO: https://victorious-pond-04a340710.7.azurestaticapps.net
 
-<!--
-**VamshiGVR/VamshiGVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # CERTIFICATIONS
+- AZ 900:
+- ORACLE AI FOUNDATIONS:
+- ORACLE FOUNDATIONS: 
+<!---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# REPOSITORIES
+- Docker
+- Infra-as-code
+- Policy-as-code
+VamshiGVR/VamshiGVR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
