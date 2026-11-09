@@ -1,84 +1,91 @@
 <div align="center">
 
-# Vamshidhar Reddy Gundlapally
+<img src="./assets/neon-banner.svg" alt="Vamshidhar Reddy — Azure DevSecOps & Platform Engineering" width="100%" />
 
-### Cloud & Platform Engineering · Azure DevSecOps · Infrastructure Automation
+<br />
 
-**Building secure, reliable cloud infrastructure through automation, policy, and continuous delivery.**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=850&lines=Azure+DevSecOps+%7C+Platform+Engineer;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Security;Automating+the+cloud%2C+one+commit+at+a+time" alt="Animated typing introduction" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://victorious-pond-04a340710.7.azurestaticapps.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshidhar-reddy-g-387068290)
-[![GitHub](https://img.shields.io/badge/GitHub-VamshiGVR-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VamshiGVR)
+<p>
+  <a href="https://victorious-pond-04a340710.7.azurestaticapps.net"><img src="https://img.shields.io/badge/Portfolio-Visit-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vamshidhar-reddy-g-387068290"><img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/vamshidharreddygundlapally-3985/"><img src="https://img.shields.io/badge/Microsoft_Learn-Credentials-0891b2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" /></a>
+</p>
 
 </div>
 
 ---
 
-### 👋 About me
+### 👾 About me
 
-I'm a software and cloud engineer focused on **Microsoft Azure, DevSecOps, platform engineering, and infrastructure as code**. My work includes automating cloud governance, implementing Azure Policy, developing CI/CD workflows, and improving monitoring and compliance across environments.
+```yaml
+name: Vamshidhar Reddy Gundlapally
+location: Atlanta, Georgia
+focus: Azure DevSecOps & Platform Engineering
+interests: [Cloud Governance, Infrastructure as Code, Security, Automation]
+working_with: [Azure, Terraform, GitHub Actions, PowerShell, Python, Bicep]
+currently_learning: [Azure Administration, Cloud Architecture]
+mission: "Build secure, reliable systems that scale."
+```
 
-- 🔐 **Cloud governance:** Azure Policy, policy initiatives, RBAC, and compliance reporting
-- ⚙️ **Automation:** Terraform, Bicep, GitHub Actions, PowerShell, and Python
-- 📊 **Observability:** Azure Monitor, Log Analytics, KQL, and diagnostic settings
-- 🗂️ **Data platforms:** Azure Databricks environments, access controls, and deployment workflows
-- 🌱 **Currently sharpening:** Azure administration, cloud security, and platform reliability
+### ⚡ Tech universe
 
-### 🧰 Tech stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=azure,terraform,githubactions,github,git,python,powershell,docker,kubernetes,linux,java,visualstudio,vscode&perline=7" alt="Technology icons" />
+</div>
 
-**Cloud & infrastructure**
+<br />
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Cloud & platform:** Microsoft Azure · Azure Policy · Azure Monitor · Entra ID · Databricks  
+**Infrastructure & automation:** Terraform · Bicep · PowerShell · Python · YAML · GitHub Actions  
+**Governance & observability:** Azure Policy as Code · KQL · Event Hubs · Diagnostic Settings · CI/CD
 
-**Languages & scripting**
+### 🛠 Featured engineering work
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+> **Project showcase in progress.** These are topics I work on and plan to demonstrate in independent, sanitized sample repositories. Links will be added when the projects are published.
 
-**Specialties:** Azure Policy · EPAC · Azure Monitor · KQL · Databricks · RBAC · CI/CD · Cloud Governance
-
-### 🚀 Work I want to showcase
-
-> **Featured repositories are being curated.** These project themes reflect my work and interests; links will be added as public, sanitized demos are published.
-
-| Project | What it demonstrates |
-| --- | --- |
-| **Azure Policy as Code** | Policy definitions, initiatives, assignments, and governance workflows |
-| **Azure Monitoring & Diagnostics** | Monitoring configuration, diagnostics routing, and KQL-based visibility |
-| **Cloud Infrastructure Automation** | Reusable Terraform/Bicep deployment patterns and CI/CD validation |
-| **DevSecOps Automation Toolkit** | PowerShell/Python utilities for cloud engineering tasks |
+| Project lab | Focus |
+| :--- | :--- |
+| 🛡️ **Azure Policy as Code Lab** | Policy definitions, initiatives, assignments and compliance automation |
+| ☁️ **Terraform Azure Infrastructure** | Reproducible Azure deployment patterns and modular IaC |
+| 📡 **Azure Observability Lab** | Azure Monitor, diagnostic settings, Event Hubs and KQL |
+| ⚙️ **DevSecOps Automation Toolkit** | GitHub Actions, Python and PowerShell automation |
 
 ### 🏅 Certifications
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Oracle AI Foundations** *(add credential link after verifying exact badge title)*
-- **Oracle Foundations** *(add credential link after verifying exact badge title)*
+<p>
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-2563eb?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals AZ-900" />
+</p>
 
-[Microsoft Learn profile](https://learn.microsoft.com/en-us/users/vamshidharreddygundlapally-3985/)
+<!-- Add other certifications only after verifying they have been earned. -->
 
-### 📈 GitHub activity
+### 📊 GitHub stats
 
 <div align="center">
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VamshiGVR&theme=github-compact&hide_border=true)
-
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=VamshiGVR&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamshiGVR&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=E5E7EB" alt="Most used GitHub languages" />
 </div>
 
-<sub>Activity visualization is generated by a third-party service and may occasionally be unavailable.</sub>
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VamshiGVR&bg_color=0d1117&color=f9a8d4&line=ec4899&point=22d3ee&area=true&area_color=831843&hide_border=true" alt="GitHub activity graph" />
+</div>
 
----
+### 🐍 Contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/VamshiGVR/VamshiGVR/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake — appears after the GitHub Action runs" width="100%" />
+</div>
+
+> The snake will appear after you enable Actions and run the included workflow once.
+
+### 🤝 Let's connect
 
 <div align="center">
 
-### Let's build something useful.
+**Open to collaborating on cloud automation, Azure infrastructure, and DevSecOps projects.**
 
-**Cloud automation · Platform engineering · Secure infrastructure**
+<a href="https://www.linkedin.com/in/vamshidhar-reddy-g-387068290"><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-ec4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-[Portfolio](https://victorious-pond-04a340710.7.azurestaticapps.net) · [LinkedIn](https://www.linkedin.com/in/vamshidhar-reddy-g-387068290) · [GitHub](https://github.com/VamshiGVR)
+<sub>Built with ☁️ Azure energy, automation, and a little neon.</sub>
 
 </div>
