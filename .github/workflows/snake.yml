@@ -1,26 +1,20 @@
-name: Generate contribution snake
-
+name: Pink contribution snake
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '15 6 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate SVG snakes
-        uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: VamshiGVR
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f472b6&color_dots=#161b22,#4a193d,#9d316c,#f472b6,#ffd0e7
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
