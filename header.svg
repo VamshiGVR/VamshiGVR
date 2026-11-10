@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vamshidhar Reddy, Azure DevSecOps and Platform Engineering">
+<defs><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter><linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;900 0" dur="9s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0f1f"/><stop offset="1" stop-color="#151133"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7dd3fc" stroke-opacity=".07"/><animateTransform attributeName="patternTransform" type="translate" values="0 0;40 40" dur="6s" repeatCount="indefinite"/></pattern>
+<radialGradient id="o1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".55"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="o2"><stop offset="0" stop-color="#22d3ee" stop-opacity=".45"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="o3"><stop offset="0" stop-color="#f472b6" stop-opacity=".4"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect width="1200" height="300" rx="20"/></clipPath>
+<clipPath id="type"><rect x="437.0" y="212" height="30" width="0"><animate attributeName="width" values="0;0;332;332;0" keyTimes="0;.08;.5;.92;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="300" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<circle r="260" fill="url(#o1)"><animate attributeName="cx" values="200;520;200" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="80;220;80" dur="11s" repeatCount="indefinite"/></circle>
+<circle r="240" fill="url(#o2)"><animate attributeName="cx" values="1000;700;1000" dur="12s" repeatCount="indefinite"/><animate attributeName="cy" values="230;60;230" dur="15s" repeatCount="indefinite"/></circle>
+<circle r="200" fill="url(#o3)"><animate attributeName="cx" values="600;800;600" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="290;250;290" dur="9s" repeatCount="indefinite"/></circle>
+<!-- circuit traces -->
+<g fill="none" stroke-width="2" filter="url(#glow)">
+<path d="M0 70H190L240 120H330" stroke="#22d3ee" stroke-opacity=".8" stroke-dasharray="14 120"><animate attributeName="stroke-dashoffset" values="268;0" dur="3.6s" repeatCount="indefinite"/></path>
+<path d="M0 235H150L205 180H300" stroke="#f472b6" stroke-opacity=".8" stroke-dasharray="14 120"><animate attributeName="stroke-dashoffset" values="268;0" dur="4.4s" repeatCount="indefinite"/></path>
+<path d="M1200 70H1010L960 120H870" stroke="#f472b6" stroke-opacity=".8" stroke-dasharray="14 120"><animate attributeName="stroke-dashoffset" values="268;0" dur="4s" repeatCount="indefinite"/></path>
+<path d="M1200 235H1050L995 180H900" stroke="#22d3ee" stroke-opacity=".8" stroke-dasharray="14 120"><animate attributeName="stroke-dashoffset" values="268;0" dur="3.2s" repeatCount="indefinite"/></path>
+</g>
+<g fill="none" stroke-opacity=".18" stroke-width="2"><path d="M0 70H190L240 120H330" stroke="#22d3ee"/><path d="M0 235H150L205 180H300" stroke="#f472b6"/><path d="M1200 70H1010L960 120H870" stroke="#f472b6"/><path d="M1200 235H1050L995 180H900" stroke="#22d3ee"/></g>
+<g fill="#22d3ee" filter="url(#glow)"><circle cx="330" cy="120" r="4"><animate attributeName="opacity" values=".3;1;.3" dur="2s" repeatCount="indefinite"/></circle><circle cx="300" cy="180" r="4" fill="#f472b6"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="870" cy="120" r="4" fill="#f472b6"><animate attributeName="opacity" values=".3;1;.3" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="900" cy="180" r="4"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<!-- text -->
+<text x="600" y="132" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="2" fill="url(#brand)" filter="url(#glow)">Vamshidhar Reddy</text>
+<text x="600" y="182" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="21" font-weight="500" letter-spacing="5" fill="#e2e8f0">Azure DevSecOps &amp; Platform Engineer</text>
+<g clip-path="url(#type)"><text x="437.0" y="234" textLength="326" lengthAdjust="spacingAndGlyphs" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#67e8f9">&gt; building secure cloud systems</text></g>
+<rect y="215" width="9" height="22" fill="#22d3ee" filter="url(#glow)"><animate attributeName="x" values="437.0;437.0;765.0;765.0;437.0" keyTimes="0;.08;.5;.92;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="1.5" y="1.5" width="1197" height="297" rx="19" fill="none" stroke="url(#brand)" stroke-width="2" stroke-opacity=".85"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 52" width="210" height="52" role="img" aria-label="LinkedIn">
+<defs><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6" stop-opacity=".22"/><stop offset="1" stop-color="#0b1020"/></linearGradient></defs>
+<rect x="3" y="3" width="204" height="46" rx="23" fill="url(#f)" stroke="#3b82f6" stroke-width="1.5" stroke-opacity=".5"/>
+<rect x="3" y="3" width="204" height="46" rx="23" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-dasharray="40 400" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-880" dur="3.5s" repeatCount="indefinite"/></rect>
+<g transform="translate(26 14) scale(1.0)" fill="#3b82f6"><rect x="3" y="3" width="18" height="18" rx="3" fill="none" stroke="#3b82f6" stroke-width="2"/><rect x="7" y="10" width="2.4" height="7"/><circle cx="8.2" cy="7.4" r="1.5"/><path d="M12 10h2.3v1c.5-.8 1.4-1.2 2.4-1.2 2 0 2.8 1.2 2.8 3.2V17h-2.4v-3.4c0-.9-.3-1.5-1.1-1.5s-1.3.6-1.3 1.5V17H12z"/></g>
+<text x="124" y="31" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="#f8fafc">LinkedIn</text>
+</svg>

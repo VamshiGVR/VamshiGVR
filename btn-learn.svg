@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 52" width="210" height="52" role="img" aria-label="MS Learn">
+<defs><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#0b1020"/></linearGradient></defs>
+<rect x="3" y="3" width="204" height="46" rx="23" fill="url(#f)" stroke="#22d3ee" stroke-width="1.5" stroke-opacity=".5"/>
+<rect x="3" y="3" width="204" height="46" rx="23" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-dasharray="40 400" filter="url(#glow)"><animate attributeName="stroke-dashoffset" values="0;-880" dur="3.5s" repeatCount="indefinite"/></rect>
+<g transform="translate(26 14) scale(1.0)" fill="#22d3ee"><rect x="3" y="3" width="8" height="8"/><rect x="13" y="3" width="8" height="8" opacity=".75"/><rect x="3" y="13" width="8" height="8" opacity=".75"/><rect x="13" y="13" width="8" height="8" opacity=".5"/></g>
+<text x="124" y="31" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="#f8fafc">MS Learn</text>
+</svg>
